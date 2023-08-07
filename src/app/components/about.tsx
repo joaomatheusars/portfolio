@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function About() {
     return (
-      <div className="text-white container mx-auto m-4 p-6 text-base gap-4 flex flex-col justify-around mt-14">
+      <div className="text-white container mx-auto m-4 p-6 text-base gap-4 flex flex-col justify-around mt-14" id="about">
         <div className="flex flex-col justify-center items-center gap-4 mb-7">
           <h2 className="font-bold text-2xl lg:text-3xl">Sobre Mim</h2>
         </div>

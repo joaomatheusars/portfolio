@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Knowledge() {
     return(
-        <div className="text-white container mx-auto m-4 p-6 gap-7 flex flex-col items-center mt-56">
+        <div className="text-white container mx-auto m-4 p-6 gap-7 flex flex-col items-center mt-56" id="knowledge">
             <div>
                 <h2 className="font-bold text-2xl lg:text-3xl">Conhecimento</h2>
             </div>

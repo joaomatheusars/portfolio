@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Projects() {
     return (
-      <div className="text-white container mx-auto m-4 p-6 gap-7 text-base flex flex-col items-center mt-56">
+      <div className="text-white container mx-auto m-4 p-6 gap-7 text-base flex flex-col items-center mt-56" id='projects'>
             <div>
                 <h2 className='font-bold text-2xl lg:text-3xl'>Projetos</h2>
             </div>
